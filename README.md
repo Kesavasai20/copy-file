@@ -57,11 +57,7 @@ except Exception as e:
 ### OUTPUT:
 ![image](https://github.com/Kesavasai20/copy-file/assets/138849303/fd64c07b-6a35-4a55-a6ee-1b76170ce1ae)
 
-<br>
-
 ![image](https://github.com/Kesavasai20/copy-file/assets/138849303/4f0853b2-e47b-45d5-b3a8-a1cddb92417d)
-
-<br>
 
 ![image](https://github.com/Kesavasai20/copy-file/assets/138849303/aa402df3-7b8c-4991-aff6-6c0c84d95259)
 ## RESULT:
